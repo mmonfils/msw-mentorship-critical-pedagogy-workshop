@@ -1,0 +1,28 @@
+# Cayman Jekyll Theme Mobile Configuration
+title: Mentorship as a Catalyst
+description: Exploring Support Systems in Master of Social Work Graduate Training
+theme: jekyll-theme-cayman
+
+# Path and URL safety rules for mobile devices on GitHub Pages
+url: "https://mmonfils.github.io"
+baseurl: ""
+
+# Directory configuration
+source: .
+destination: _site
+incremental: false
+
+# Custom CSS path to inject mobile-first wrapping behaviors
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Front-matter exclusions to keep the repository clean
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - .jekyll-cache/
+  - .jekyll-metadata

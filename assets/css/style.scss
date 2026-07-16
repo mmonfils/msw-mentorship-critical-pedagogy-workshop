@@ -1,0 +1,41 @@
+---
+# Front matter blocks are required to trigger Jekyll processing
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Mobile Overrides for Jekyll Cayman */
+@media screen and (max-width: 480px) {
+  /* Force tables to stack vertically to prevent horizontal scrolling */
+  table, thead, tbody, th, td, tr {
+    display: block;
+    width: 100% !important;
+  }
+  
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  
+  tr {
+    border: 1px solid #e9ebec;
+    margin-bottom: 10px;
+    background: #ffffff;
+    padding: 8px;
+  }
+  
+  td {
+    border: none;
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+  }
+  
+  /* Bulleted formatting inside stacked cells */
+  td ul {
+    margin-left: 15px;
+    padding-left: 0;
+  }
+}
