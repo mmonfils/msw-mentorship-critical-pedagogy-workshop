@@ -10,7 +10,7 @@ destination: _site
 incremental: false
 
 sass:
-  style: :compressed
+  style: compressed
   sass_dir: _sass
 
 exclude:
@@ -21,3 +21,4 @@ exclude:
   - vendor/cache/
   - .jekyll-cache/
   - .jekyll-metadata
+  - README.md

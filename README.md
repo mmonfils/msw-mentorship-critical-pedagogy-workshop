@@ -31,6 +31,7 @@ This presentation explores the critical role of mentorship in Master of Social W
 .
 ├── _config.yml               # Jekyll configuration and base path overrides
 ├── index.md                  # Public Live Workshop Hub (index page)
+├── references.md             # Public bibliography of APA citations
 ├── README.md                 # This developer documentation file
 └── assets/
     └── css/
@@ -57,5 +58,22 @@ This repository maps the academic research findings into a multi-level social wo
 
 ---
 
-## 5. License
+## 5. Institutional Review Board & Confidentiality Protocols
+
+This repository strictly complies with IRB guidelines (Project #405-26) to protect participant privacy in small department environments. Developers must adhere to the following data-sharing rules:
+
+### Prevention of Deductive Disclosure
+Because the study utilizes a purposive sample of five participants in a small, local master's department, standard anonymization is insufficient. We must actively avoid the following traps:
+1. **The 1-to-1 Matching Trap:** Never pair a pseudonym with a specific demographic combination (such as stating a pseudonym represents a mother of two in a second career).
+2. **High-Risk Local Identifiers:** Completely omit specific department structures, course codes, or local geographic details that could trace back to an individual.
+3. **Traceable Life Events:** Do not mention specific personal crises, sudden employment changes, or unique family emergencies in any public presentation or workshop anchor.
+
+### Institutional Reputation Management
+To maintain a constructive and respectful academic partnership with Grand View University:
+* **Asset-Based Framing:** Present administrative and systemic struggles as opportunities for proactive program growth or universal challenges of non-traditional higher education.
+* **No Deficit Language:** Ensure that workshop materials do not frame the host university's support as deficient. Contrast the supportive, small-university family environment positively against rigid, traditional corporate hierarchies.
+
+---
+
+## 6. License
 Licensed under the MIT License. See the LICENSE file for full permissions.
