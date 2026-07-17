@@ -3,14 +3,7 @@
 This is the backend repository documentation for the Master of Social Work research project and workshop hub. It contains the technical configuration, directory structure, policy roadmap, and institutional review details.
 
 ## 1. Project Overview
-
-### Workshop Abstract
-This presentation explores the critical role of mentorship in Master of Social Work (MSW) education. Grounded in critical pedagogy, the study examines how formal and informal mentoring relationships influence professional identity and academic persistence among emerging practitioners. Findings highlight the need for equitable, developmental support systems that bridge the gap between theory and practice, especially for underserved students.
-
-### Goals and Objectives
-* Analyze the impact of formal and informal mentorship on the development of professional identity and academic persistence in emerging social work practitioners.
-* Create evidence-based recommendations for designing developmental, rather than administrative, mentorship models in academic and field settings.
-* Discuss the reciprocal benefits of the mentoring relationship for both the emerging practitioner (mentee) and the experienced practitioner (mentor).
+This repository functions as an integrated deployment environment for a public, mobile-responsive Live Workshop Hub. The interactive elements, research context, and CSWE matrix are located directly on `index.md` to optimize participant flow during sessions.
 
 ---
 
@@ -30,12 +23,14 @@ This presentation explores the critical role of mentorship in Master of Social W
 ```text
 .
 ├── _config.yml               # Jekyll configuration and base path overrides
-├── index.md                  # Public Live Workshop Hub (index page)
+├── index.md                  # Public Live Workshop Hub (Attendee Landing Page)
 ├── references.md             # Public bibliography of APA citations
 ├── README.md                 # This developer documentation file
-└── assets/
-    └── css/
-        └── style.scss        # Custom CSS overrides for mobile device layout
+├── assets/
+│   └── css/
+│       └── style.scss        # Custom CSS overrides for mobile device layout
+└── facilitator/
+    └── index.md              # Publicly built Facilitator Materials Portal
 ```
 
 ---
