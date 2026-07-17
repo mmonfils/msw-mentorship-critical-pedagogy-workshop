@@ -26,7 +26,7 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ### Dialogue Tracking (7 Minutes)
 * **Prompt:** "Reflect on a time your professional guidance was strictly administrative rather than developmental. What core structural pieces were missing?"
-* **Facilitator Cue:** Instruct attendees to hit the Padlet link on `index.md`. Watch for common tags like *isolation*, *red tape*, or *lack of time*. Highlight the structural commonalities rather than letting the conversation drift into personal complaints about specific bosses.
+* **Facilitator Cue:** Direct participants to fill out the embedded Block 1 Google Form on `index.md`. Bring your live Google Forms "Summary of Responses" dashboard up on the projector screen. Call out emerging patterns like "heavy paperwork workloads" or "lack of developmental processing."
 
 ---
 
@@ -39,7 +39,7 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ### Dialogue Tracking (8 Minutes)
 * **Prompt:** "Look at your own workspace barriers. Frame a common structural failure in your field as a systemic design flaw rather than an individual deficiency."
-* **Facilitator Cue:** Guide the room toward macro realizations. If a classmate struggles to balance a night shift and field hours, it is a structural curriculum failure, not an individual time-management deficit.
+* **Facilitator Cue:** Direct participants to submit responses on the Block 2 Google Form embedded in the hub. Project the Block 2 live responses summary on-screen. Highlight answers that connect personal burnout to structural design issues.
 
 ---
 
@@ -52,7 +52,7 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ### Dialogue Tracking (7 Minutes)
 * **Prompt:** "Review the informal survival networks professionals build via messaging apps to combat burnout. How can we formally design environments to mirror this raw peer solidarity?"
-* **Facilitator Cue:** Keep track of participant posts on the shared digital dashboard. Point out how organic solidarity often compensates for gaps left by official university structures.
+* **Facilitator Cue:** Ask participants to submit via the Block 3 Google Form on `index.md`. Project the incoming comments. Point out how organic peer groups are highly responsive spaces for immediate validation.
 
 ---
 
@@ -60,24 +60,25 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ### Collaborative Brainstorm (13 Minutes)
 * **Prompt:** "Identify one change at the micro, mezzo, or macro level within your current organization to formalize peer-driven solidarity."
-* **Facilitator Cue:** Group participant input into actionable tracks:
-  * *Micro:* Mandated peer support blocks.
-  * *Mezzo:* Standardized near-peer pairing procedures.
-  * *Macro:* Changing regional accreditation protocols or agency mandates.
+* **Facilitator Cue:** Instruct the room to fill out the final Block 4 Google Form. Show the aggregated ideas on the project screen and categorize them into actionable levels:
+  * *Micro:* Scheduled check-in loops.
+  * *Mezzo:* Program-wide near-peer matching rules.
+  * *Macro:* Changing CSWE-level standards.
 
 ### Wrap-Up (10 Minutes)
-* Synthesize the collective dashboard entries. Connect the workshop back to *Schuman et al. (2021)* and *Lee et al. (2026)* to show that investing in macro-level peer networks reduces professional attrition.
-* Direct participants to the public bibliography page (`references.md`) for deep-dive literature options.
+* Review the collective dashboard. Use the ideas to summarize and ground the day's learning.
+* Point out how structural changes prevent early social work burnout (Schuman et al., 2021; Lee et al., 2026).
+* Direct participants to click the `references.md` link on their screens for the complete bibliography.
 
 ---
 
 ## Technical Platform Setup
 
-To maintain a zero-barrier, mobile-first experience without user login requirements, execute the following technical configurations before the workshop session:
+To maintain a zero-barrier, mobile-first experience without user login requirements, configure your Google Forms before running the session:
 
-1. **Dashboard Canvas Selection:** Utilize a tool that enables anonymous canvas postings via a raw URL link (e.g., Padlet set to "Secret" visibility with "Visitor can write" permissions enabled).
-2. **Access Acceleration:** Generate a clean QR code pointing directly to `https://mmonfils.github.io/msw-mentorship-critical-pedagogy-workshop/`. Display this QR code on a projector screen at the front of the room during entry.
-3. **Moderation Controls:** Enable content filtering or manual approval queues within your canvas options to filter out accidental double-postings or technical formatting errors on mobile screens.
+1. **Form Permissions:** In Google Forms settings, under "Responses," make sure "Restrict to users in [Your Organization]" is turned **OFF**. Set "Limit to 1 response" to **OFF** to allow multiple submissions from the same device if needed.
+2. **Retrieve Embed Codes:** Click "Send" in the top-right corner of each form, choose the `< >` HTML embed icon, and copy the `iframe` code. Paste these codes into the designated blocks in `index.md`.
+3. **Presenter Dashboard Configuration:** Open the "Responses" tab of all four Google Forms on your presentation laptop. Set the display mode to "Summary" to show real-time graphs and text lists as they arrive.
 
 ---
 
