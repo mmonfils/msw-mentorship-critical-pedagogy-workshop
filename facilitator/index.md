@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Facilitator Materials Portal
-description: Instruction scripts, technical guidance, and dialogue pacing notes.
 ---
 
 # Facilitator Materials Portal
@@ -9,15 +8,15 @@ description: Instruction scripts, technical guidance, and dialogue pacing notes.
 This portal hosts internal scripts, timing rules, and tactical instructions for conducting the 90-minute live interactive workshop session.
 
 ## Navigation
-* [Block 1 Facilitation Script](#block-1-context--the-knowledge-gap-0-to-22-minutes)
-* [Block 2 Facilitation Script](#block-2-theoretical-grounding--frameworks-22-to-45-minutes)
-* [Block 3 Facilitation Script](#block-3-empirical-findings--lived-realities-45-to-67-minutes)
-* [Block 4 Facilitation Script](#block-4-action-plans--applied-advocacy-67-to-90-minutes)
-* [Technical Platform Setup](#technical-platform-setup)
+* [Block 1 Facilitation Script](#block-1)
+* [Block 2 Facilitation Script](#block-2)
+* [Block 3 Facilitation Script](#block-3)
+* [Block 4 Facilitation Script](#block-4)
+* [Technical Platform Setup](#technical-setup)
 
 ---
 
-## Block 1: Context & The Knowledge Gap (0 to 22 Minutes)
+## <a name="block-1"></a>Block 1: Context & The Knowledge Gap (0 to 22 Minutes)
 
 ### Lecture Outline (15 Minutes)
 * **The Framing:** Introduce how higher education defaults to transaction-oriented tracking. When an institution isolates an advisor's duty to programmatic checklists, it leaves non-traditional students adrift.
@@ -30,7 +29,7 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ---
 
-## Block 2: Theoretical Grounding & Frameworks (22 to 45 Minutes)
+## <a name="block-2"></a>Block 2: Theoretical Grounding & Frameworks (22 to 45 Minutes)
 
 ### Lecture Outline (15 Minutes)
 * **The Framing:** Bridge Systems Theory and Critical Pedagogy. Contrast the traditional "banking model" against dynamic peer solidarity networks.
@@ -43,7 +42,7 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ---
 
-## Block 3: Empirical Findings & Lived Realities (45 to 67 Minutes)
+## <a name="block-3"></a>Block 3: Empirical Findings & Lived Realities (45 to 67 Minutes)
 
 ### Lecture Outline (15 Minutes)
 * **The Framing:** Introduce the qualitative data trends. Highlight how non-traditional students create underground, sub-institutional coping channels to survive.
@@ -56,7 +55,7 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ---
 
-## Block 4: Action Plans & Applied Advocacy (67 to 90 Minutes)
+## <a name="block-4"></a>Block 4: Action Plans & Applied Advocacy (67 to 90 Minutes)
 
 ### Collaborative Brainstorm (13 Minutes)
 * **Prompt:** "Identify one change at the micro, mezzo, or macro level within your current organization to formalize peer-driven solidarity."
@@ -72,7 +71,7 @@ This portal hosts internal scripts, timing rules, and tactical instructions for 
 
 ---
 
-## Technical Platform Setup
+## <a name="technical-setup"></a>Technical Platform Setup
 
 To maintain a zero-barrier, mobile-first experience without user login requirements, configure your Google Forms before running the session:
 
