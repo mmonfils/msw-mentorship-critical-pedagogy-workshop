@@ -7,6 +7,10 @@ title: Facilitator Guide
 
 This portal hosts internal scripts, timing rules, and tactical instructions for conducting the 90-minute live interactive workshop session.
 
+> ### Institutional Review Board Compliance Reminder
+> **IRB Project #405-26 (Grand View University)**
+> To prevent deductive disclosure in small department environments, you must actively avoid connecting specific participant pseudonyms with precise personal timelines, multi-role combinations, or traceable life events during open dialog sessions. Frame programmatic opportunities using asset-based language that treats non-traditional learner adjustments as systemic design challenges rather than personal structural deficits.
+
 ## Workshop Overview and Objectives
 
 This facilitator guide is designed for a multi-part workshop curriculum focused on strengthening mentorship systems within Master of Social Work (MSW) programs. The materials are structured to support three 15-minute lectures, guided dialogues, and a collaborative brainstorm session. 
@@ -17,9 +21,9 @@ This facilitator guide is designed for a multi-part workshop curriculum focused 
 
 ---
 
-## Lecture 1: The Mentorship Gap and Diverse Student Needs (15 Minutes)
+## Block 1: Context & The Knowledge Gap (0 to 22 Minutes)
 
-### Lecture Outline
+### Lecture 1 Outline (15 Minutes)
 * **The Status Quo**: Mentorship in social work education is widely recognized as vital, yet it is rarely an explicit requirement in national accreditation standards (Pomeroy & Steiker, 2011; Schuman et al., 2021). Programs often rely on informal, inconsistent access through faculty and field supervisors (Monfils, 2026).
 * **The Scope**: Research indicates that up to half of all MSW students lack a dedicated mentor (Skrzypek et al., 2019; Stafford & Robbins, 1991). 
 * **Disproportionate Impact**: The lack of structured support heavily impacts non-traditional, remote, first-generation, and marginalized student populations (Jensen, 2017; Rogers, 2013; Schuman et al., 2021).
@@ -35,9 +39,9 @@ This facilitator guide is designed for a multi-part workshop curriculum focused 
 
 ---
 
-## Lecture 2: Theoretical Foundations: Critical Pedagogy in Mentoring (15 Minutes)
+## Block 2: Theoretical Grounding & Frameworks (22 to 45 Minutes)
 
-### Lecture Outline
+### Lecture 2 Outline (15 Minutes)
 * **Core Framework**: Critical pedagogy challenges traditional, top-down educational approaches that reinforce social inequality and power imbalances (Freire, 1970; Billings, 2024).
 * **The Banking Model vs Problem-Posing**: Traditional education treats students as empty accounts to be filled with facts (Freire, 1970). Critical pedagogy replaces this with problem-posing education, which relies on empowering dialogue and shared learning (Freire, 1970).
 * **Three Key Pillars**: Social justice is pursued through a continuous cycle of dialogue, critique, and praxis (Hall, 2015).
@@ -52,15 +56,15 @@ This facilitator guide is designed for a multi-part workshop curriculum focused 
 
 ---
 
-## Lecture 3: Structuring Effective Mentorship Models (15 Minutes)
+## Block 3: Empirical Findings & Lived Realities (45 to 67 Minutes)
 
-### Lecture Outline
-* **Near-Peer and Nested Mentoring**: These models use advanced graduate students to mentor students who are earlier in their academic journeys (Inoue et al., 2017; Schuman et al., 2021). Faculty mentor graduate students, who then mentor undergraduate or foundational students (Inoue et al., 2017).
+### Lecture 3 Outline (15 Minutes)
+* **Near-Peer and Nested Mentoring**: These models use advanced graduate students to mentor students who are earlier in their academic journeys (Inoue et al., 2017; Schuman et al., 2021). Faculty mentor graduate students, who then mentor undergraduate or foundational students (Inoue et n., 2017).
 * **Student-Alumni Partnerships**: Matching foundational students with program alumni provides a safe mentoring space completely free from academic evaluation (Skrzypek et al., 2019). This allows mentees to ask questions openly without any fear of judgment (Skrzypek et al., 2019).
 * **E-Mentoring and Distance Formats**: Utilizing electronic communication channels helps remove geographic and scheduling barriers for isolated or remote students (Schuman et al., 2021).
 
 ### Key Talking Points
-* **Horizontal vs Vertical Relationships**: Traditional mentoring models are heavily vertical and top-down, which creates intense power issues (Inoue et al., 2017). Near-peer and co-mentoring models introduce horizontal partnerships that emphasize shared learning, collaboration, and reciprocity (Inoue et al., 2017).
+* **Horizontal vs Vertical Relationships**: Traditional mentoring models are heavily vertical and top-down, which creates intense power issues (Inoue et al., 2017). Near-peer and co-mentoring models introduce horizontal partnerships that emphasize shared learning, collaboration, and reciprocity (Inoue et n., 2017).
 * **The Value of Non-Evaluating Mentors**: When field supervisors or professors serve as mentors, their primary role of grading or evaluating performance can conflict with the nurturing process (Miehls et al., 2013; Skrzypek et al., 2019). Alumni and peer mentors remove this barrier (Skrzypek et al., 2019).
 * **Mitigating Digital Miscommunication**: While e-mentoring provides immense scheduling flexibility, purely text-based communication lacks vital nuance and context (Schuman et al., 2021). Program structures must encourage voice messages or phone calls to resolve misunderstandings quickly (Schuman et al., 2021).
 
@@ -72,22 +76,22 @@ This facilitator guide is designed for a multi-part workshop curriculum focused 
 ## Guided Interactive Activities
 
 ### Structured Dialogue 1: Uncovering the Hidden Curriculum
-* **Format**: Small group breakout sessions.
+* **Format**: Small group breakout sessions (7 Minutes).
 * **Prompt for Participants**: Review the high-need support areas identified across the literature: self-care, time management, and balancing the complex realities of school, family, and work (Jensen, 2017). How can our current program design explicitly teach these skills rather than expecting students to figure them out on their own?
 * **Submission**: Staff and attendees will use embedded links to submit anonymous discussion notes via Google Forms.
 
 ### Structured Dialogue 2: Deconstructing Power and Fostering Praxis
-* **Format**: Reflective pairs or triad discussion.
+* **Format**: Reflective pairs or triad discussion (8 Minutes).
 * **Prompt for Participants**: Critical pedagogy seeks to dismantle traditional vertical power structures in favor of horizontal learning partnerships (Freire, 1970; Inoue et al., 2017). Discuss how mentoring pairs can deliberately practice "praxis"—the loop of critical reflection and action—to analyze power dynamics, oppression, and privilege within field placements without defaulting to a "banking model" of instruction (Freire, 1970; Lorenzetti et al., 2019).
 * **Submission**: Staff and attendees will use embedded links to submit anonymous discussion notes via Google Forms.
 
 ### Structured Dialogue 3: Defining the Roles and Boundaries
-* **Format**: Paired discussion.
+* **Format**: Paired discussion (7 Minutes).
 * **Prompt for Participants**: A major barrier in organic mentoring programs is a severe lack of programmatic clarity and structure, leaving pairs confused about how often to meet and what to discuss (Jensen, 2017; Skrzypek et al., 2019). Draft an outline for a formal Mentoring Program Plan contract that clarifies confidentiality, sets an expectation of at least one contact per month, and defines boundaries between supervision, mentoring, and therapy (Miehls et al., 2013; Skrzypek et al., 2019).
 * **Submission**: Staff and attendees will use embedded links to submit anonymous discussion notes via Google Forms.
 
-### Collaborative Brainstorm Session: Institutional Action Plan
-* **Format**: Large group mapping.
+### Block 4: Action Plans & Applied Advocacy (67 to 90 Minutes)
+* **Format**: Large group mapping (13 Minute Collaborative Brainstorm / 10 Minute Wrap-up).
 * **Objective**: Move away from reactive models that put the entire burden of seeking help onto individual at-risk students (Monfils, 2026). 
 * **Action Steps to Evaluate**:
     1. How can we embed formal peer-based leadership or near-peer mentoring directly into our required core curriculum (Mitschke et al., 2021; Monfils, 2026)?

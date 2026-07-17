@@ -38,4 +38,13 @@
     margin-left: 15px;
     padding-left: 0;
   }
+
+  /* Responsive styling for embedded form frames */
+  .form-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 500px !important; /* Slightly taller for stacked inputs on narrow viewports */
+    border: 0;
+    margin-bottom: 20px;
+  }
 }
