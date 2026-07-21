@@ -29,7 +29,7 @@ This portal supports presentation delivery at the NASW-Iowa 2026 Symposium. The 
 
 ## Facilitator Quick Tools
 
-* **[Direct Link to Live Form Summary View](https://docs.google.com/forms/d/YOUR_FORM_ID/edit#responses)**  
+* **[Direct Link to Live Form Summary View](https://docs.google.com/forms/d/1oTGbdRKRUA71BIIhExpmrs8NRxs6L36-lD9TDrkZaAo/edit#responses)**  
   *(Click during Block 4 to display real-time participant responses on the presentation screen)*
 
 ---
@@ -76,7 +76,7 @@ This portal supports presentation delivery at the NASW-Iowa 2026 Symposium. The 
 ---
 
 ### Block 4: Insights & Live Q&A (19 Minutes)
-* **Real-Time Data Synthesis**: Switch screen display using the [Live Form Summary Link](https://docs.google.com/forms/d/YOUR_FORM_ID/edit#responses) to showcase live participant submissions across Blocks 1, 2, and 3.
+* **Real-Time Data Synthesis**: Switch screen display using the [Live Form Summary Link](https://docs.google.com/forms/d/1oTGbdRKRUA71BIIhExpmrs8NRxs6L36-lD9TDrkZaAo/edit#responses) to showcase live participant submissions across Blocks 1, 2, and 3.
 * **Discussion**: Lead an interactive Q&A synthesizing audience insights into concrete policy recommendations for academic and field settings.
 
 ---
