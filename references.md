@@ -13,7 +13,7 @@ title: Academic References | Mentorship as a Catalyst
 
 # Academic References & Literature Base
 
-[Workshop Hub](index.html) | [Facilitator Portal](index%20%28facilitator%29.html)
+[Workshop Hub](index.html) | [Facilitator Portal](facilitator/)
 
 ---
 
@@ -97,4 +97,4 @@ title: Academic References | Mentorship as a Catalyst
 
 ---
 
-[Top of Page](#academic-references--literature-base) | [Workshop Hub](index.html) | [Facilitator Portal](index%20%28facilitator%29.html)
+[Top of Page](#academic-references--literature-base) | [Workshop Hub](index.html) | [Facilitator Portal](facilitator/)
