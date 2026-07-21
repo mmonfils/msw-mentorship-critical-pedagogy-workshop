@@ -1,103 +1,123 @@
 ---
 layout: default
-title: Facilitator Guide
+title: Facilitator Materials Portal | Mentorship as a Catalyst
 ---
 
-# Facilitator Materials Portal
+# Facilitator Materials Portal: Mentorship as a Catalyst
+## Expanded Facilitation Guide & Literature Integration
 
-This portal hosts internal scripts, timing rules, and tactical instructions for conducting the 90-minute live interactive workshop session.
-
-> ### Institutional Review Board Compliance Reminder
-> **IRB Project #405-26 (Grand View University)**
-> To prevent deductive disclosure in small department environments, you must actively avoid connecting specific participant pseudonyms with precise personal timelines, multi-role combinations, or traceable life events during open dialog sessions. Frame programmatic opportunities using asset-based language that treats non-traditional learner adjustments as systemic design challenges rather than personal structural deficits.
-
-## Workshop Overview and Objectives
-
-This facilitator guide is designed for a multi-part workshop curriculum focused on strengthening mentorship systems within Master of Social Work (MSW) programs. The materials are structured to support three 15-minute lectures, guided dialogues, and a collaborative brainstorm session. 
-
-* **Goal**: Shift institutional support from reactive to proactive models to enhance professional identity and academic persistence.
-* **Target Audience**: Social work faculty, program directors, field supervisors, and student leaders.
-* **Core Framework**: Critical pedagogy, utilizing dialogue, critique, and praxis to empower students.
+This guide expands directly upon the four active breakout blocks from the live workshop hub. It incorporates deep contextual notes from the broader empirical literature to ground discussions in established evidence.
 
 ---
 
-## Block 1: Context & The Knowledge Gap (0 to 22 Minutes)
+## Facilitator Introduction & Workshop Framing
 
-### Lecture 1 Outline (15 Minutes)
-* **The Status Quo**: Mentorship in social work education is widely recognized as vital, yet it is rarely an explicit requirement in national accreditation standards (Pomeroy & Steiker, 2011; Schuman et al., 2021). Programs often rely on informal, inconsistent access through faculty and field supervisors (Monfils, 2026).
-* **The Scope**: Research indicates that up to half of all MSW students lack a dedicated mentor (Skrzypek et al., 2019; Stafford & Robbins, 1991). 
-* **Disproportionate Impact**: The lack of structured support heavily impacts non-traditional, remote, first-generation, and marginalized student populations (Jensen, 2017; Rogers, 2013; Schuman et al., 2021).
-
-### Key Talking Points
-* **The Hidden Curriculum**: Nontraditional and first-generation students often lack the social or cultural capital to easily decode the unwritten rules, norms, and values of higher education (Jensen, 2017). Mentorship acts as a tool to uncover this hidden curriculum (Jensen, 2017).
-* **Student Blockers**: Non-traditional students balancing multiple identities (such as parenting or a second career) often experience a low margin of error (Monfils, 2026). They frequently become their own blockers, meaning their complex personal schedules leave zero time to seek out institutional support resources actively (Monfils, 2026).
-* **The Gender Gap**: Social work continues to experience a massive gender imbalance, with approximately six times as many women as men choosing the major (Rogers, 2013). Male students often experience identity discord or face gender role conflicts that structured academic mentoring could help address (Rogers, 2013).
-
-### Facilitator Notes
-* Emphasize that adding access to higher education is not enough if programs do not build the support systems required to keep students enrolled (Jensen, 2017).
-* Keep the focus on how individual student challenges are frequently rooted in systemic layout issues rather than individual student failure (Monfils, 2026).
+* **Core Goal**: Guide participants through a critical analysis of MSW support systems using empirical evidence and actionable policy frameworks (Monfils, 2026).
+* **Theoretical Foundation**: Frame all discussions around Freirean critical pedagogy (Freire, 1970). Emphasize education as problem-posing dialogue rather than banking information, using praxis (reflection and action) to disrupt traditional hierarchical mentoring (Giroux, 1985; Hooks, 1994; Monfils, 2026).
 
 ---
 
-## Block 2: Theoretical Grounding & Frameworks (22 to 45 Minutes)
+## Facilitation Guides for Active Workshop Breakouts
 
-### Lecture 2 Outline (15 Minutes)
-* **Core Framework**: Critical pedagogy challenges traditional, top-down educational approaches that reinforce social inequality and power imbalances (Freire, 1970; Billings, 2024).
-* **The Banking Model vs Problem-Posing**: Traditional education treats students as empty accounts to be filled with facts (Freire, 1970). Critical pedagogy replaces this with problem-posing education, which relies on empowering dialogue and shared learning (Freire, 1970).
-* **Three Key Pillars**: Social justice is pursued through a continuous cycle of dialogue, critique, and praxis (Hall, 2015).
+### Block 1: Institutional Guidance & Faculty Accessibility
 
-### Key Talking Points
-* **Praxis in Mentoring**: Praxis represents the tightly linked combination of deep reflection and direct action (Freire, 1970). In a mentorship pair, praxis helps a student connect abstract classroom theory with real-world social work practice (Lorenzetti et al., 2019; Monfils, 2026).
-* **Heightening Personal Agency**: Mentorship programs built on critical pedagogy directly counter deficit-focused intervention models (Hall, 2015). Instead, they focus on building personal agency, self-determination, and a strong professional identity (Hall, 2015; Kridel, 2010).
-* **Transformative Learning Environments**: True critical thinking is not guaranteed to happen automatically during field placements or standard classes (Lorenzetti et al., 2019). It must be deliberately built through critical dialogues that unpack power dynamics, oppression, and privilege (Lorenzetti et al., 2019).
+#### Workshop Hub Alignment
+* **Replicated Block Content**:
+  * **Focus**: Moving from administrative logistics to developmental career role modeling (Monfils, 2026).
+  * **Key Concept**: Examining how responsive faculty communication (less than 24-hour turnaround) builds self-efficacy and reduces student anxiety (Monfils, 2026).
+  * **Group Task**: Analyze how faculty-student touchpoints can focus on long-term career vision rather than daily troubleshooting (Monfils, 2026).
 
-### Facilitator Notes
-* Explain that a mentor is not just an administrative guide or a task-focused advisor (Gutierrez, 2012; Skrzypek et al., 2019). A true mentor supports the student holistically, building an environment of trust and mutual growth (Skrzypek et al., 2019).
+#### Facilitator Talking Points & Literature Integration
+* **Administrative vs. Developmental Guidance**: Clarify that while students frequently need help with admissions, schedules, or commencement logistics, true growth occurs when faculty serve as career role models (Monfils, 2026).
+* **The Power of Responsiveness**: Emphasize that rapid communication culture (responses within 24 hours) serves as a psychological safety net, dramatically reducing student anxiety during key transition points (Monfils, 2026).
+* **Insights from Literature**:
+  * In field supervision, students report that while initial needs focus on basic orientation and treatment planning, their ultimate goal is developing independent self-confidence and professional identity through modeling (Miehls et al., 2013).
+  * Supervisees and mentees thrive when provided clear expectations, mutual goal-setting, and structured feedback rather than ambiguous "learning by doing" (Miehls et al., 2013).
+  * Economic pressures on social service agencies have reduced the availability of quality supervision, making university-based faculty role models even more critical for early-career workers (Miehls et al., 2013).
 
----
-
-## Block 3: Empirical Findings & Lived Realities (45 to 67 Minutes)
-
-### Lecture 3 Outline (15 Minutes)
-* **Near-Peer and Nested Mentoring**: These models use advanced graduate students to mentor students who are earlier in their academic journeys (Inoue et al., 2017; Schuman et al., 2021). Faculty mentor graduate students, who then mentor undergraduate or foundational students (Inoue et n., 2017).
-* **Student-Alumni Partnerships**: Matching foundational students with program alumni provides a safe mentoring space completely free from academic evaluation (Skrzypek et al., 2019). This allows mentees to ask questions openly without any fear of judgment (Skrzypek et al., 2019).
-* **E-Mentoring and Distance Formats**: Utilizing electronic communication channels helps remove geographic and scheduling barriers for isolated or remote students (Schuman et al., 2021).
-
-### Key Talking Points
-* **Horizontal vs Vertical Relationships**: Traditional mentoring models are heavily vertical and top-down, which creates intense power issues (Inoue et al., 2017). Near-peer and co-mentoring models introduce horizontal partnerships that emphasize shared learning, collaboration, and reciprocity (Inoue et n., 2017).
-* **The Value of Non-Evaluating Mentors**: When field supervisors or professors serve as mentors, their primary role of grading or evaluating performance can conflict with the nurturing process (Miehls et al., 2013; Skrzypek et al., 2019). Alumni and peer mentors remove this barrier (Skrzypek et al., 2019).
-* **Mitigating Digital Miscommunication**: While e-mentoring provides immense scheduling flexibility, purely text-based communication lacks vital nuance and context (Schuman et al., 2021). Program structures must encourage voice messages or phone calls to resolve misunderstandings quickly (Schuman et al., 2021).
-
-### Facilitator Notes
-* Highlight that structured mentorship improves practical research competence, such as a student's self-efficacy in executing the Evidence-Based Practice process (Weller et al., 2022).
+#### Facilitation Dialogue & Transitions
+> **Introduction**: "Welcome to Block 1. As we examine faculty accessibility, remember that responsive communication isn't just a administrative convenience; it is an active mechanism of student self-efficacy."
+>
+> **Prompt**: "How can faculty transition routine office hours away from procedural questions and toward career visioning and praxis?"
+>
+> **Transition to Block 2**: "Now that we have examined the critical role of faculty, let's explore why traditional faculty access often fails to reach non-traditional and remote students."
 
 ---
 
-## Guided Interactive Activities
+### Block 2: The Non-Traditional & Remote Student Experience
 
-### Structured Dialogue 1: Uncovering the Hidden Curriculum
-* **Format**: Small group breakout sessions (7 Minutes).
-* **Prompt for Participants**: Review the high-need support areas identified across the literature: self-care, time management, and balancing the complex realities of school, family, and work (Jensen, 2017). How can our current program design explicitly teach these skills rather than expecting students to figure them out on their own?
-* **Submission**: Staff and attendees will use embedded links to submit anonymous discussion notes via Google Forms.
+#### Workshop Hub Alignment
+* **Replicated Block Content**:
+  * **Focus**: Identifying systemic barriers facing adult learners, working parents, and remote students (Jensen, 2017; Monfils, 2026).
+  * **Key Concept**: Deconstructing the "fishbowl effect" of virtual classrooms and overcoming the low margin of error non-traditional students face (Monfils, 2026).
+  * **Group Task**: Design low-barrier touchpoints that prevent students from acting as their own "blockers" due to full life schedules (Monfils, 2026).
 
-### Structured Dialogue 2: Deconstructing Power and Fostering Praxis
-* **Format**: Reflective pairs or triad discussion (8 Minutes).
-* **Prompt for Participants**: Critical pedagogy seeks to dismantle traditional vertical power structures in favor of horizontal learning partnerships (Freire, 1970; Inoue et al., 2017). Discuss how mentoring pairs can deliberately practice "praxis"—the loop of critical reflection and action—to analyze power dynamics, oppression, and privilege within field placements without defaulting to a "banking model" of instruction (Freire, 1970; Lorenzetti et al., 2019).
-* **Submission**: Staff and attendees will use embedded links to submit anonymous discussion notes via Google Forms.
+#### Facilitator Talking Points & Literature Integration
+* **Understanding Competing Identities**: Adult learners, second-career students, working parents, and remote students operate with a very low margin of error due to multi-role demands (Jensen, 2017; Monfils, 2026).
+* **The "Self-Blocker" Phenomenon**: Highlight that non-traditional students frequently fail to access existing support services not due to a lack of motivation, but because managing complex lives leaves zero extra capacity to navigate fragmented university systems (Monfils, 2026).
+* **Insights from Literature**:
+  * Distributed Learning (DL) programs significantly increase access for historically underrepresented students, but face elevated dropout rates due to differential access to campus support systems and hidden curricula (Jensen, 2017).
+  * First-generation and older students (ages 40+) report significantly higher needs for assistance with emotional support, self-care, time management, and navigating school-work-family complexity (Jensen, 2017).
+  * Older adult learners utilize mentors to process *why* they are pursuing an advanced degree (meaning-making and investment validation), whereas younger students focus on *how* to negotiate higher education systems (Jensen, 2017).
+  * Mentors help unwritten, implicit cultural capital become accessible to non-traditional students, building a sense of academic legitimacy (Jensen, 2017).
 
-### Structured Dialogue 3: Defining the Roles and Boundaries
-* **Format**: Paired discussion (7 Minutes).
-* **Prompt for Participants**: A major barrier in organic mentoring programs is a severe lack of programmatic clarity and structure, leaving pairs confused about how often to meet and what to discuss (Jensen, 2017; Skrzypek et al., 2019). Draft an outline for a formal Mentoring Program Plan contract that clarifies confidentiality, sets an expectation of at least one contact per month, and defines boundaries between supervision, mentoring, and therapy (Miehls et al., 2013; Skrzypek et al., 2019).
-* **Submission**: Staff and attendees will use embedded links to submit anonymous discussion notes via Google Forms.
-
-### Block 4: Action Plans & Applied Advocacy (67 to 90 Minutes)
-* **Format**: Large group mapping (13 Minute Collaborative Brainstorm / 10 Minute Wrap-up).
-* **Objective**: Move away from reactive models that put the entire burden of seeking help onto individual at-risk students (Monfils, 2026). 
-* **Action Steps to Evaluate**:
-    1. How can we embed formal peer-based leadership or near-peer mentoring directly into our required core curriculum (Mitschke et al., 2021; Monfils, 2026)?
-    2. What steps are required to launch a student-alumni mixer or build a digital database to match mentors and mentees based on specific shared demographic realities and practice interests (Skrzypek et al., 2019)?
-    3. How can we leverage technological platforms to provide immediate, swift, and accurate resource sharing during times of transition or crisis (Mitschke et al., 2021)?
+#### Facilitation Dialogue & Transitions
+> **Introduction**: "In Block 2, we look at the lived realities of non-traditional students. When a student balances caregiving, employment, and distance learning, traditional 'open door' policies are structurally inaccessible."
+>
+> **Prompt**: "What specific administrative obstacles can we automate or eliminate so non-traditional students don't have to act as their own blockers?"
+>
+> **Transition to Block 3**: "Because faculty capacity and student schedules are tightly constrained, horizontal peer structures offer a powerful alternative to traditional top-down mentorship."
 
 ---
 
-[Return to Live Workshop Hub](../index.md)
+### Block 3: Near-Peer Support & Horizontal Networks
+
+#### Workshop Hub Alignment
+* **Replicated Block Content**:
+  * **Focus**: Leveraging nested peer networks to share social capital and reduce faculty overload (Inoue et al., 2017; Monfils, 2026).
+  * **Key Concept**: Evaluating horizontal/co-mentoring models that foster solidarity, trust, and mutual learning across student cohorts (Inoue et al., 2017; Mitschke et al., 2021).
+  * **Group Task**: Outline a near-peer framework that connects advanced MSW students with incoming first-year cohorts (Schuman et al., 2021).
+
+#### Facilitator Talking Points & Literature Integration
+* **Relieving Faculty Burden**: Top-down, faculty-only mentorship models struggle under high student-to-faculty ratios and time constraints (Jensen, 2017; Monfils, 2026).
+* **Near-Peer and Nested Mentoring**: Advanced students (e.g., second-year MSW or doctoral candidates) provide relatable, accessible guidance to early-stage students while developing their own leadership capacity (Inoue et al., 2017; Schuman et al., 2021).
+* **Insights from Literature**:
+  * Traditional mentoring relies on vertical, top-down power dynamics. Horizontal/co-mentoring models emphasize non-hierarchical partnerships, reciprocity, and two-way learning (Inoue et al., 2017).
+  * The SWIRL model demonstrates "nested mentoring" where faculty mentor graduate students, who in turn mentor undergraduate students, fostering community building and hands-on skill development without extra faculty burden (Inoue et al., 2017).
+  * Virtual peer mentoring programs (such as e-mentoring using near-peer models) successfully bridge geographical barriers, offering safe spaces for psychosocial support and crisis coping (Mitschke et al., 2021; Schuman et al., 2021).
+  * Community-based "Journey Guides" using 8-step experiential models foster transformative learning and social justice commitment when guided by clear expectations and structured touchpoints (Lorenzetti et al., 2019).
+
+#### Facilitation Dialogue & Transitions
+> **Introduction**: "Welcome to Block 3. Near-peer mentorship transforms advanced students into active co-learners, creating horizontal networks of solidarity that demystify the graduate experience."
+>
+> **Prompt**: "How can we structure near-peer mentoring so that advanced students receive academic credit or leadership development without adding unpaid emotional labor?"
+>
+> **Transition to Block 4**: "Having explored micro-level interactions and group peer networks, let's turn to the institutional and policy changes required to make these supports permanent."
+
+---
+
+### Block 4: Systemic Action & Policy Implications
+
+#### Workshop Hub Alignment
+* **Replicated Block Content**:
+  * **Focus**: Aligning micro, mezzo, and macro policy changes across social work education (Lee et al., 2026; Monfils, 2026).
+  * **Key Concept**: Embedding required mentorship into first-year curricula (micro), building departmental peer structures (mezzo), and advocating for CSWE accreditation metrics (macro) (CSWE, 2025; Monfils, 2026).
+  * **Group Task**: Draft a departmental policy proposal that embeds proactive mentorship into required course sequences (Monfils, 2026).
+
+#### Facilitator Talking Points & Literature Integration
+* **Shifting the Burden**: Equity cannot be achieved when mentorship is purely voluntary or opt-in, as high-risk students will self-select out due to time poverty (Jensen, 2017; Monfils, 2026).
+* **Multi-Level Policy Alignment**:
+  * **Micro Policy**: Embed required mentorship check-ins directly into first-year seminars or foundation field courses (Monfils, 2026).
+  * **Mezzo Policy**: Formally institutionalize structured near-peer or student-alumni mentoring programs within social work departments (Skrzypek et al., 2019; Monfils, 2026).
+  * **Macro Policy**: Push national accrediting bodies to recognize and require mentorship accessibility standards across all accredited programs (CSWE, 2025; Monfils, 2026).
+* **Insights from Literature**:
+  * Over 55,000 MSW students are enrolled nationally, with nearly 40% studying part-time, underscoring the massive scale of students requiring flexible, structured support (CSWE, 2025).
+  * Macro social work education has faced institutional declines, making intentional macro-level policy interventions within university structures essential for sustaining the field (Lee et al., 2026).
+  * Program evaluations reveal that organic, unstructured mentoring programs frequently fail due to ambiguity surrounding mentor/mentee roles; explicit structural guidelines and program clarity are essential prerequisites for success (Jensen, 2017; Lorenzetti et al., 2019).
+
+#### Facilitation Dialogue & Wrap-Up
+> **Introduction**: "In our final block, we address systemic change. If mentorship remains informal, it remains an engine of privilege. Systemic policy embedding is our primary tool for social work equity."
+>
+> **Prompt**: "What concrete metrics should accrediting bodies like CSWE adopt to ensure mentorship accessibility across all online, hybrid, and campus programs?"
+>
+> **Wrap-Up**: "Thank you for participating. By translating critical pedagogy into structured, multi-level policy actions, we move social work training from reactive individual support to proactive institutional solidarity."

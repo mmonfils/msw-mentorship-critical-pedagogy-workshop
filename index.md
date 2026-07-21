@@ -1,115 +1,71 @@
 ---
 layout: default
-title: Live Workshop Hub
+title: Live Workshop Hub | Mentorship as a Catalyst
 ---
 
 # Live Workshop Hub: Mentorship as a Catalyst
+## Exploring Support Systems in Master of Social Work Graduate Training
 
-Welcome, attendees. Please keep this mobile-optimized page open on your phone or tablet browser throughout today's session. This single-column layout serves as your interactive portal, presentation workspace, and live data dashboard.
+Welcome to the live workshop hub. This interactive curriculum directly translates recent qualitative research on graduate social work mentorship into practical, action-oriented strategies (Monfils, 2026).
 
-> **Anonymous Submission Instructions**
-> To participate in today's dialogues completely anonymously, use the embedded forms below each activity block. Your inputs will stream live to the presenter's dashboard in real time without requiring a login or recording your identity.
+---
+
+## Workshop Overview & Core Frameworks
+
+Across academic settings and field placements, mentorship bridges the gap between social work theory and practice (Monfils, 2026). While social work education widely recognizes the importance of mentorship, programs face no formal obligation to provide it, leaving up to half of all students without a mentor (Pomeroy & Steiker, 2011; Skrzypek et al., 2019).
+
+```text
++-------------------------------------------------------------------+
+|                     CRITICAL PEDAGOGY FRAMEWORK                   |
+|                                                                   |
+|   Dialogue                  Praxis                  Mutual        |
+|  (Empowering            (Reflection &             Learning        |
+|  Problem-Posing)           Action)              (Social Justice)  |
++-------------------------------------------------------------------+
+                                  |
+                                  v
++-------------------------------------------------------------------+
+|                      PROACTIVE MSW MENTORSHIP                      |
+|                                                                   |
+|  Faculty Role Models   +   Near-Peer Networks   +   Systemic     |
+|  (Career Vision)           (Solidarity)             Accreditation |
++-------------------------------------------------------------------+
+```
+
+Our interactive sessions use the lens of **critical pedagogy** to examine mentorship as an empowering tool for social justice rather than a top-down administrative task (Freire, 1970; Hall, 2015; Monfils, 2026).
+
+### Key Research Foundations
+* **Status Quo Realities**: Mentorship currently operates as an informal, faculty-dependent, and peer-driven experience (Monfils, 2026).
+* **Faculty as Navigators**: Students identify professors as their primary point of contact for career role modeling and professional identity development (Monfils, 2026).
+* **Non-Traditional Student Barriers**: Competing life obligations, remote learning isolation, and high stakes often lead non-traditional students to act as their own "blockers" when seeking help (Jensen, 2017; Monfils, 2026).
+* **Institutional Shift**: Programs must shift the burden of support from individual students to institutional structures (Monfils, 2026).
 
 ---
 
 ## Active Workshop Breakouts
 
-### Block 1: Context & The Knowledge Gap (0 to 22 Minutes)
-* **Format:** 15 Minute Lecture / 7 Minute Dialogue.
-* **Activity 1 (Disruption Analysis):** Reflect on a time your professional guidance was strictly administrative rather than developmental. What core structural pieces were missing?
+### Block 1: Institutional Guidance & Faculty Accessibility
+* **Focus**: Moving from administrative logistics to developmental career role modeling (Monfils, 2026).
+* **Key Concept**: Examining how responsive faculty communication (less than 24-hour turnaround) builds self-efficacy and reduces student anxiety (Monfils, 2026).
+* **Group Task**: Analyze how faculty-student touchpoints can focus on long-term career vision rather than daily troubleshooting (Monfils, 2026).
 
-<iframe class="form-container" src="https://docs.google.com/forms/d/e/1FAIpQLScl1_YOUR_BLOCK1_FORM_ID_HERE/viewform?embedded=true" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+### Block 2: The Non-Traditional & Remote Student Experience
+* **Focus**: Identifying systemic barriers facing adult learners, working parents, and remote students (Jensen, 2017; Monfils, 2026).
+* **Key Concept**: Deconstructing the "fishbowl effect" of virtual classrooms and overcoming the low margin of error non-traditional students face (Monfils, 2026).
+* **Group Task**: Design low-barrier touchpoints that prevent students from acting as their own "blockers" due to full life schedules (Monfils, 2026).
 
-* > **Empirical Anchor:** Synthesized qualitative feedback from graduate learners highlights a common opportunity where academic guidance can be elevated from transactional, administrative checklists to developmental mentorship models (Miehls et al., 2013; Schuman et al., 2021).
+### Block 3: Near-Peer Support & Horizontal Networks
+* **Focus**: Leveraging nested peer networks to share social capital and reduce faculty overload (Inoue et al., 2017; Monfils, 2026).
+* **Key Concept**: Evaluating horizontal/co-mentoring models that foster solidarity, trust, and mutual learning across student cohorts (Inoue et al., 2017; Mitschke et al., 2021).
+* **Group Task**: Outline a near-peer framework that connects advanced MSW students with incoming first-year cohorts (Schuman et al., 2021).
 
----
-
-### Block 2: Theoretical Grounding & Frameworks (22 to 45 Minutes)
-* **Format:** 15 Minute Lecture / 8 Minute Dialogue.
-* **Activity 2 (Problem-Posing Reframe):** Look at your own workspace barriers. Frame a common structural failure in your field as a systemic design flaw rather than an individual deficiency.
-
-<iframe class="form-container" src="https://docs.google.com/forms/d/e/1FAIpQLScl1_YOUR_BLOCK2_FORM_ID_HERE/viewform?embedded=true" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-* > **Empirical Anchor:** Working-class learners balancing career and education face intense time scarcity. Rather than viewing individual scheduling conflicts as personal deficits, critical pedagogy frames these conflicts as systemic design opportunities for programs to offer proactive, built-in check-ins (Freire, 1970; Hooks, 1994).
-
----
-
-### Block 3: Empirical Findings & Lived Realities (45 to 67 Minutes)
-* **Format:** 15 Minute Lecture / 7 Minute Dialogue.
-* **Activity 3 (Solidarity Mapping):** Review the informal survival networks professionals build via messaging apps to combat burnout. How can we formally design environments to mirror this raw peer solidarity?
-
-<iframe class="form-container" src="https://docs.google.com/forms/d/e/1FAIpQLScl1_YOUR_BLOCK3_FORM_ID_HERE/viewform?embedded=true" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-* > **Empirical Anchor:** To navigate the isolating aspects of virtual and distance learning courses, students naturally self-organize. By initiating peer group chats, students establish highly responsive resource sharing channels and immediate emotional validation (Mitschke et al., 2021).
+### Block 4: Systemic Action & Policy Implications
+* **Focus**: Aligning micro, mezzo, and macro policy changes across social work education (Lee et al., 2026; Monfils, 2026).
+* **Key Concept**: Embedding required mentorship into first-year curricula (micro), building departmental peer structures (mezzo), and advocating for CSWE accreditation metrics (macro) (CSWE, 2025; Monfils, 2026).
+* **Group Task**: Draft a departmental policy proposal that embeds proactive mentorship into required course sequences (Monfils, 2026).
 
 ---
 
-### Block 4: Action Plans & Applied Advocacy (67 to 90 Minutes)
-* **Format:** 13 Minute Collaborative Brainstorm / 10 Minute Wrap-up.
-* **Activity 4 (Strategic Roadmap):** Identify one change at the micro, mezzo, or macro level within your current organization to formalize peer-driven solidarity.
+## Summary of Workshop Objectives
 
-<iframe class="form-container" src="https://docs.google.com/forms/d/e/1FAIpQLScl1_YOUR_BLOCK4_FORM_ID_HERE/viewform?embedded=true" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-* > **Empirical Anchor:** Aggregated program findings demonstrate that emerging practitioners highly value peer networks. Introducing structural solutions like near-peer pairing and alumni career pathways helps build professional resiliency early in graduate training (Schuman et al., 2021; Skrzypek et al., 2019).
-
----
-
-## Project Context and Foundations
-
-### Workshop Abstract
-This presentation explores the critical role of mentorship in Master of Social Work (MSW) education. Grounded in critical pedagogy, the study examines how formal and informal mentoring relationships influence professional identity and academic persistence among emerging practitioners (Freire, 1970; Stafford & Robbins, 1991). Findings highlight the need for equitable, developmental support systems that bridge the gap between theory and practice, especially for underserved students (Schuman et al., 2021).
-
-### Goals and Objectives
-* Analyze the impact of formal and informal mentorship on the development of professional identity and academic persistence in emerging social work practitioners (Pomeroy & Steiker, 2011).
-* Create evidence-based recommendations for designing developmental, rather than administrative, mentorship models in academic and field settings (Miehls et al., 2013).
-* Discuss the reciprocal benefits of the mentoring relationship for both the emerging practitioner (mentee) and the experienced practitioner (mentor) (Pomeroy & Steiker, 2011).
-
-### CSWE Curriculum Alignment Matrix
-This workshop addresses core educational components defined by the Council on Social Work Education (CSWE) Educational Policy and Accreditation Standards (EPAS):
-
-| CSWE Competency | Workshop Application |
-| :--- | :--- |
-| **Competency 1: Demonstrate Ethical and Professional Behavior** | Analyzing the power dynamics inherent in traditional academic hierarchies and integrating mutual accountability tools within professional supervision frameworks (Miehls et al., 2013). |
-| **Competency 2: Advance Human Rights and Social, Racial, Economic, and Environmental Justice** | Applying critical pedagogy to dismantle barrier-heavy administration models that disproportionately exclude non-traditional, working-class graduate learners (Freire, 1970; Weller et al., 2022). |
-| **Competency 3: Engage Anti-Racism, Diversity, Equity, and Inclusion (ADEI) in Practice** | Designing near-peer support architectures and organic communication channels that recognize student identity as an asset, reducing systemic isolation (Hall, 2015; Schuman et al., 2021). |
-
----
-
-## Core Research Framework
-
-Traditional mentoring programs operate reactively, creating a thin margin of error for non-traditional students. Applying critical pedagogy and systems theory transforms our approach from a banking model to collaborative, peer-level solidarity (Freire, 1970; Giroux, 1985).
-
-```text
-       [SYSTEMIC DRIFT] -> Overloaded Administrative / Reactive Models
-              │
-              ▼
-  [CRITICAL PEDAGOGY INTERVENTION]
-              │
-              ├─> Deconstructs Traditional Instructional Hierarchy
-              └─> Fosters Direct Peer-Driven Solidarity Networks
-              │
-              ▼
-     [PRAXIS-DRIVEN ROADMAP]
-              │
-              ├─> Micro: Embedded structural curriculum checkpoints in year one
-              ├─> Mezzo: Near-peer pairing protocols to balance burnout
-              └─> Macro: Reciprocal feedback frameworks for dual retention
-```
-
----
-
-## Thematic Empirical Matrix
-
-This mobile-optimized, two-column comparative matrix displays the aggregated qualitative findings of our study. To ensure strict compliance with IRB confidentiality standards and prevent deductive disclosure, all individual metrics, life events, and identifiers have been completely abstracted into broad themes (Stafford & Robbins, 1991).
-
-| Theme and Metric | Aggregated Research Findings |
-| :--- | :--- |
-| **Institutional Guidance** | * **Primary Contacts:** Academic faculty serve as the primary foundational contacts for early professional identity development (Stafford & Robbins, 1991).<br>* **Responsiveness:** Program communications returned in under 24 hours dramatically increase learner security and self-efficacy (Miehls et al., 2013). |
-| **Non-Traditional Barriers** | * **Competing Roles:** Balancing caregiving duties, careers, and non-traditional educational timelines creates high rates of time poverty (Weller et al., 2022).<br>* **System Barriers:** Rigid administrative procedures can inadvertently block student engagement when not integrated into normal class structures (Jensen, 2017). |
-| **Peer Support Gaps** | * **Organic Solidarity:** Peer-facilitated communication channels act as crucial, unofficial coping mechanisms to navigate graduate stressors (Mitschke et al., 2021).<br>* **Near-Peer Demand:** Early-stage students express a clear desire for structured, developmental engagement with advanced peers (Schuman et al., 2021). |
-
----
-
-## Additional Resources
-* [Academic References Page](references.md)
-* [Facilitator Materials Portal](facilitator/index.md)
+> "By shifting the burden of support from individual students to the institution, MSW programs can foster a more equitable and sustainable environment for emerging social work professionals." (Monfils, 2026, p. 2)
