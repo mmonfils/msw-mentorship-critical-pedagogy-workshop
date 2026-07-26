@@ -18,6 +18,33 @@ Scan the QR code below or open this page on your mobile device. Scroll down dire
 
 ## Active Workshop Breakouts
 
+### Small Group Discussion Prompts
+Please discuss the following prompts within your groups during the designated 7-minute blocks. **Record your group's key takeaway in the corresponding section of the Google Form below.**
+
+<div class="breakout-card">
+  <strong>Block 1: Institutional Guidance & Faculty Accessibility</strong>
+  <ul>
+    <li><em>Research Context:</em> Findings suggest students value faculty as primary navigators of professional identity. Mentorship is most effective when it moves beyond administrative logistics to "career visioning."</li>
+    <li><strong>Focus Question:</strong> How can faculty transition routine office hours away from procedural questions toward career visioning and praxis?</li>
+  </ul>
+</div>
+
+<div class="breakout-card">
+  <strong>Block 2: The Non-Traditional & Remote Student Experience</strong>
+  <ul>
+    <li><em>Research Context:</em> Non-traditional students often act as their own "blockers" due to a low "margin of error" while balancing life roles. Integrated support is needed to shift the burden of persistence from the student to the institution.</li>
+    <li><strong>Focus Question:</strong> What specific administrative obstacles can we automate or eliminate so non-traditional students don't have to act as their own blockers?</li>
+  </ul>
+</div>
+
+<div class="breakout-card">
+  <strong>Block 3: Near-Peer Support & Horizontal Networks</strong>
+  <ul>
+    <li><em>Research Context:</em> Students frequently turn to classmates for "solidarity" to cope with stressors. Near-peer mentoring provides a sustainable way to leverage shared experience without increasing faculty burden.</li>
+    <li><strong>Focus Question:</strong> How can we structure near-peer mentoring so advanced students receive academic credit or leadership development without adding unpaid emotional labor?</li>
+  </ul>
+</div>
+
 ### Small Group Feedback Form
 Complete each section of the single, unified form during the corresponding 7-minute breakout blocks.
 
