@@ -4,7 +4,35 @@
 
 @import "{{ site.theme }}";
 
-/* Custom Mobile Overrides for Jekyll Cayman */
+/* Container Padding for Mobile Screens */
+.main-content {
+  padding: 1rem;
+  max-width: 100%;
+}
+
+/* Schedule & Breakout Card Styling */
+.breakout-card {
+  border-left: 4px solid #159957;
+  padding: 0.8rem;
+  background-color: #f8f9fa;
+  margin-bottom: 0.8rem;
+  border-radius: 4px;
+}
+
+/* Responsive Google Form Frame */
+.form-container {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-bottom: 20px;
+}
+
+.responsive-form {
+  width: 100%;
+  min-height: 500px;
+  border: 0;
+}
+
+/* Custom Mobile Overrides for Jekyll Cayman (Table Stacking) */
 @media screen and (max-width: 480px) {
   /* Force tables to stack vertically to prevent horizontal scrolling */
   table, thead, tbody, th, td, tr {
@@ -37,14 +65,5 @@
   td ul {
     margin-left: 15px;
     padding-left: 0;
-  }
-
-  /* Responsive styling for embedded form frames */
-  .form-container {
-    width: 100% !important;
-    max-width: 100% !important;
-    height: 500px !important;
-    border: 0;
-    margin-bottom: 20px;
   }
 }

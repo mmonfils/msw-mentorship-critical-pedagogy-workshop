@@ -27,16 +27,12 @@ Complete each section of the single, unified form during the corresponding 7-min
 
 ## 90-Minute Workshop Schedule
 
-| Time Block | Segment | Format | Duration |
-| :--- | :--- | :--- | :--- |
-| **00:00 - 00:05** | Kickoff & Logistics | Facilitator Intro | 5 Minutes |
-| **00:05 - 00:20** | Block 1 Briefing: Institutional Guidance | Presentation | 15 Minutes |
-| **00:20 - 00:27** | Block 1 Breakout: Discussion & Form Entry | Small Group | 7 Minutes |
-| **00:27 - 00:42** | Block 2 Briefing: Non-Traditional Students | Presentation | 15 Minutes |
-| **00:42 - 00:49** | Block 2 Breakout: Discussion & Form Entry | Small Group | 7 Minutes |
-| **00:49 - 01:04** | Block 3 Briefing: Near-Peer Support | Presentation | 15 Minutes |
-| **01:04 - 01:11** | Block 3 Breakout: Discussion & Form Entry | Small Group | 7 Minutes |
-| **01:11 - 01:30** | Block 4: Insights & Live Q&A | Large Group | 19 Minutes |
+{% for item in site.data.agenda %}
+<div class="breakout-card">
+  <strong>{{ item.time }}</strong> ({{ item.duration }}) <br>
+  <strong>{{ item.title }}</strong> | <em>{{ item.format }}</em>
+</div>
+{% endfor %}
 
 ---
 
@@ -73,9 +69,9 @@ This presentation explores the critical role of mentorship in Master of Social W
 This workshop is presented at the NASW-Iowa 2026 Symposium to support continuing education units (CEUs) for licensed social workers. The learning objectives align directly with Council on Social Work Education (CSWE) Educational Policy and Accreditation Standards (EPAS) competencies and the NASW Code of Ethics.
 
 ### Goals & Learning Objectives
-* **Analyze Mentorship Impact**: Analyze the impact of formal and informal mentorship on the development of professional identity and academic persistence in emerging social work practitioners.
-* **Develop Actionable Models**: Create evidence-based recommendations for designing developmental, rather than administrative, mentorship models in academic and field settings.
-* **Examine Reciprocal Growth**: Discuss the reciprocal benefits of the mentoring relationship for both the emerging practitioner (mentee) and the experienced practitioner (mentor).
+{% for obj in site.data.objectives %}
+* **{{ obj.title }}** (*{{ obj.epas }}*): {{ obj.description }}
+{% endfor %}
 
 ### Professional Standard Alignment
 
