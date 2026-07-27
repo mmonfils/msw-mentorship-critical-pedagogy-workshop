@@ -5,7 +5,7 @@ title: Live Workshop Hub | Mentorship as a Catalyst
 
 # Live Workshop Hub: Mentorship as a Catalyst
 
-[Active Breakouts](#active-workshop-breakouts) | [Workshop Timetable](#90-minute-workshop-schedule) | [CEU Alignment & Objectives](#ceu-alignment--learning-objectives) | [Facilitator Portal](facilitator/) | [References](references.html)
+[Active Breakouts](#active-workshop-breakouts) | [Workshop Timetable](#90-minute-workshop-schedule) | [CEU Alignment & Objectives](#ceu-alignment--learning-objectives) | [Facilitator Portal](./facilitator/) | [References](references.html)
 
 ---
 
@@ -110,4 +110,4 @@ This workshop is presented at the NASW-Iowa 2026 Symposium to support continuing
 
 ---
 
-[Top of Page](#live-workshop-hub-mentorship-as-a-catalyst) | [Facilitator Portal](facilitator/) | [References](references.html)
+[Top of Page](#live-workshop-hub-mentorship-as-a-catalyst) | [Facilitator Portal](./facilitator/) | [References](references.html)

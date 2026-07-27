@@ -13,17 +13,12 @@ title: Facilitator Materials Portal | Mentorship as a Catalyst
 
 This portal supports presentation delivery at the NASW-Iowa 2026 Symposium. The 90-minute session balances concise content briefings with structured audience participation to reinforce CEU educational goals.
 
-```text
-+-----------------------------------------------------------------------------------+
-|                                90-MINUTE SYMPOSIUM TIMELINE                       |
-|                                                                                   |
-| [00-05m] Kickoff & Logistics                                                      |
-| [05-20m] Block 1 Briefing ---> [20-27m] Block 1 Breakout (7m Form Entry)          |
-| [27-42m] Block 2 Briefing ---> [42-49m] Block 2 Breakout (7m Form Entry)          |
-| [49-64m] Block 3 Briefing ---> [64-71m] Block 3 Breakout (7m Form Entry)          |
-| [71-90m] Block 4 Insights & Live Q&A (19m Synthesis & Real-Time Data Review)      |
-+-----------------------------------------------------------------------------------+
-```
+{% for item in site.data.agenda %}
+<div class="facilitator-agenda-item" style="margin-bottom: 15px; padding: 10px; border-left: 4px solid #0056b3; background: #f9f9f9;">
+  <strong>[{{ item.time }}] {{ item.title }}</strong><br>
+  <em>Format: {{ item.format }} | Duration: {{ item.duration }}</em>
+</div>
+{% endfor %}
 
 ---
 
@@ -49,7 +44,7 @@ This portal supports presentation delivery at the NASW-Iowa 2026 Symposium. The 
   * Connect developmental support to CSWE Competency 1 (Demonstrate Ethical and Professional Behavior).
 * **Breakout (7 Minutes)**:
   * Prompt attendees to complete Section 1 of the form on their mobile device.
-  * Focus question: How can faculty transition routine office hours away from procedural questions toward career visioning and praxis?
+  * **Focus Question:** How can faculty transition routine office hours away from procedural questions toward career visioning and praxis?
 
 ---
 
@@ -60,7 +55,7 @@ This portal supports presentation delivery at the NASW-Iowa 2026 Symposium. The 
   * Connect tailored support to CSWE Competency 2 (Advance Human Rights and Social, Economic, and Environmental Justice).
 * **Breakout (7 Minutes)**:
   * Prompt attendees to complete Section 2 of the form.
-  * Focus question: What specific administrative obstacles can we automate or eliminate so non-traditional students don't have to act as their own blockers?
+  * **Focus Question:** What specific administrative obstacles can we automate or eliminate so non-traditional students don't have to act as their own blockers?
 
 ---
 
@@ -71,7 +66,7 @@ This portal supports presentation delivery at the NASW-Iowa 2026 Symposium. The 
   * Discuss reciprocal benefits for both mentors and mentees.
 * **Breakout (7 Minutes)**:
   * Prompt attendees to complete Section 3 of the form.
-  * Focus question: How can we structure near-peer mentoring so advanced students receive academic credit or leadership development without adding unpaid emotional labor?
+  * **Focus Question:** How can we structure near-peer mentoring so advanced students receive academic credit or leadership development without adding unpaid emotional labor?
 
 ---
 
