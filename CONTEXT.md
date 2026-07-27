@@ -1,3 +1,8 @@
+---
+layout: default
+title: Context | MSW Mentorship & Critical Pedagogy Workshop Hub
+---
+
 # CONTEXT.md | MSW Mentorship & Critical Pedagogy Workshop Hub
 
 ## Project Identity & Metadata
@@ -12,7 +17,7 @@ The workshop content and structure are grounded in the following academic framew
 * **Critical Pedagogy (Freirean Praxis)**: Utilizing dialogue and problem-posing education to empower students and challenge traditional "banking" models of instruction.
 * **Systems Theory (Person-in-Environment)**: Analyzing the MSW student experience within the context of institutional barriers, remote learning environments, and competing life roles.
 * **Economic Solidarity**: Designing near-peer support models that avoid the exploitation of "unpaid emotional labor" while fostering horizontal networks of mutual learning.
-* **Proactive Mentorship**: Shifting the burden of persistence from the individual student to the institution through automated or embedded support systems.
+* **Proactive Mentorship**: Shifting the burden of persistence from the student to the institution through automated or embedded support systems.
 
 ## Standards & Ethics Alignment
 Content is mapped to specific professional standards to ensure CEU eligibility:
@@ -33,10 +38,10 @@ The following file serves as the ultimate authority for all academic assertions,
 
 ## Jekyll Data & Site Architecture
 The site utilizes Jekyll's data folder to maintain synchronization across multiple pages:
-* **_data/agenda.yml**: The single source of truth for the workshop timeline. Used in `index.md` and `facilitator/index.md` via Liquid `{% for %}` loops to ensure timing and block titles match.
+* **_data/agenda.yml**: The single source of truth for the workshop timeline. Used in `index.md` and `facilitator/index.md` via Liquid {% raw %}`{% for item in site.data.agenda %}`{% endraw %} loops to ensure timing and block titles match.
 * **_data/objectives.yml**: Contains title, EPAS mapping, and descriptions for CEU goals, rendered as a list in the Hub.
 * **index.md (The Hub)**: The participant-facing landing page containing the QR code, active breakout prompts, and the embedded Google Form.
-* **facilitator/index.md (Facilitator Portal)**: Contains detailed briefing notes and a direct link to the [Live Google Form Summary View](https://docs.google.com/forms/d/1oTGbdRKRUA71BIIhExpmrs8NRxs6L36-lD9TDrkZaAo/edit#responses) for real-time data synthesis.
+* **facilitator/index.md (Facilitator Portal)**: Contains detailed briefing notes and a direct link to the Live Google Form Summary View for real-time data synthesis.
 
 ## Mobile UI & Technical Guardrails
 To ensure maximum accessibility on mobile devices during the symposium, the following technical constraints are enforced:
@@ -45,6 +50,6 @@ To ensure maximum accessibility on mobile devices during the symposium, the foll
 * **Google Form Integration**: Embedded via `<iframe>` with 100% width and fixed height (846px) to minimize scrolling friction within the page.
 * **Formatting Restrictions**:
     * No emojis: Maintain a professional, academic aesthetic.
-    * No em dashes: Use standard punctuation or hyphens to ensure uniform rendering across various mobile browsers and text-to-speech tools.
+    * No em dashes: Use standard punctuation or hyphens to ensure uniform rendering across various mobile browsers.
     * Plain Text Diagrams: Use ASCII-based flowcharts to ensure structural clarity without requiring heavy image assets.
 * **Navigation**: Relative paths must be used (e.g., `./facilitator/`) to ensure the site remains functional across local testing and GitHub Pages deployment.
