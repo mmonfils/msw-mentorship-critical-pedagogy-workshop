@@ -16,7 +16,7 @@ title: Context | MSW Mentorship & Critical Pedagogy Workshop Hub
 The workshop content and structure are grounded in the following academic frameworks:
 * **Critical Pedagogy (Freirean Praxis)**: Utilizing dialogue and problem-posing education to empower students and challenge traditional "banking" models of instruction.
 * **Systems Theory (Person-in-Environment)**: Analyzing the MSW student experience within the context of institutional barriers, remote learning environments, and competing life roles.
-* **Economic Solidarity**: Designing near-peer support models that avoid the exploitation of "unpaid emotional labor" while fostering horizontal networks of mutual learning.
+* **Strengths-Based Approach**: Identifying and leveraging the inherent assets, experiential knowledge, and resilient coping mechanisms that social work students bring to graduate education and field placements.
 * **Proactive Mentorship**: Shifting the burden of persistence from the student to the institution through automated or embedded support systems.
 
 ## Standards & Ethics Alignment
@@ -33,23 +33,30 @@ Content is mapped to specific professional standards to ensure CEU eligibility:
 
 ## Source of Truth Reference Map
 The following file serves as the ultimate authority for all academic assertions, research findings, and theoretical citations:
-* **Primary Authority**: `research/paper-core.md`
-* **Role**: All focus questions, "Research Context" snippets in the breakout cards, and workshop abstract content must derive directly from the data and analysis presented in this core paper.
+* **Primary Authority**: `research/paper-core.md` (Migrated to the companion Just the Docs research repository)
+* **Role**: All focus questions, breakout card prompts, and workshop abstract content derive directly from the core paper analysis.
 
-## Jekyll Data & Site Architecture
-The site utilizes Jekyll's data folder to maintain synchronization across multiple pages:
-* **_data/agenda.yml**: The single source of truth for the workshop timeline. Used in `index.md` and `facilitator/index.md` via Liquid {% raw %}`{% for item in site.data.agenda %}`{% endraw %} loops to ensure timing and block titles match.
-* **_data/objectives.yml**: Contains title, EPAS mapping, and descriptions for CEU goals, rendered as a list in the Hub.
-* **index.md (The Hub)**: The participant-facing landing page containing the QR code, active breakout prompts, and the embedded Google Form.
-* **facilitator/index.md (Facilitator Portal)**: Contains detailed briefing notes and a direct link to the Live Google Form Summary View for real-time data synthesis.
+## Live Workshop Hub Refactor Architecture
+The Live Workshop Hub is a single-page, mobile-first Jekyll site built on the Cayman theme. It operates as a zero-friction input terminal for workshop attendees.
 
-## Mobile UI & Technical Guardrails
-To ensure maximum accessibility on mobile devices during the symposium, the following technical constraints are enforced:
-* **Base Theme**: Jekyll Cayman Theme (minimalist, high-contrast, responsive).
-* **UI Structure**: Use of the `.breakout-card` CSS class for all discussion prompts and agenda items to provide clear visual containers.
-* **Google Form Integration**: Embedded via `<iframe>` with 100% width and fixed height (846px) to minimize scrolling friction within the page.
+### Tech Stack
+* **Frontend**: Single-page Jekyll web application using the responsive Cayman theme.
+* **Submission Form**: Native HTML/CSS input fields embedded directly on the page without third-party iframes, cookie banners, or external authentication.
+* **Backend Processing**: Headless form handler (Formspree, FormKeep, or Netlify Forms) accepting background data payloads via AJAX/Fetch API.
+* **Data Destination**: Submissions pipe automatically from the form backend directly into a live Google Sheet for real-time group synthesis by the facilitator.
+* **Documentation Split**: Extensive developer notes, facilitator guides, research files (`research/`), and reference lists (`references.md`) reside in a separate repository powered by the Jekyll "Just the Docs" theme.
+
+## UX Optimization Requirements (No-Friction Blueprint)
+1. **Single-Input Stream Workflow**: Attendees submit rapid, bullet-style feedback. The interface consists of a single text field and a section selector (dropdown or radio buttons) to assign thoughts to one of three active discussion prompts.
+2. **Background Submission (AJAX/Fetch)**: Submitting data executes asynchronously. Page reloads, site redirects, and "Thank You" confirmation windows are strictly forbidden.
+3. **Soft UI Focus-Lock**: Upon successful submission, JavaScript immediately resets the text area, displays a subtle success indicator, and calls `.focus()` on the text field. This keeps the mobile keyboard active for immediate follow-up entries.
+4. **Data Privacy Safeguards**: Strict anonymity is maintained. Payloads contain only raw string data (Section Name and Text Input) stripped of tracking cookies, telemetry, or user identifiers.
+
+## Mobile UI & Layout Hierarchy
+* **Form-First Viewport Placement**: The interactive HTML form resides at the top of the content area directly beneath the main site header, ensuring immediate access upon scanning the QR code.
+* **Below-the-Fold Reference Material**: The condensed 90-minute workshop agenda, active breakout prompts, and CEU criteria sit below the active form block to provide contextual reference without interrupting input flow.
+* **CSS Visual Containers**: Breakout prompts and agenda blocks utilize the `.breakout-card` styling class for high-contrast mobile scanning.
 * **Formatting Restrictions**:
-    * No emojis: Maintain a professional, academic aesthetic.
-    * No em dashes: Use standard punctuation or hyphens to ensure uniform rendering across various mobile browsers.
-    * Plain Text Diagrams: Use ASCII-based flowcharts to ensure structural clarity without requiring heavy image assets.
-* **Navigation**: Relative paths must be used (e.g., `./facilitator/`) to ensure the site remains functional across local testing and GitHub Pages deployment.
+    * No emojis: Maintains a clean, professional aesthetic.
+    * No em dashes: Standard punctuation or hyphens are used exclusively to guarantee consistent mobile browser rendering.
+    * Plain Text Diagrams: ASCII flowcharts render structural logic without heavy image payloads.

@@ -1,24 +1,10 @@
-title: Mentorship as a Catalyst
-description: Exploring Support Systems in Master of Social Work Graduate Training
+title: MSW Mentorship & Critical Pedagogy Workshop Hub
+description: Live feedback and interactive session terminal for the 2026 NASW Iowa Symposium.
 theme: jekyll-theme-cayman
 
-url: "[https://mmonfils.github.io](https://mmonfils.github.io)"
-baseurl: "/msw-mentorship-critical-pedagogy-workshop"
-
-source: .
-destination: _site
-incremental: false
-
+# Mobile optimization
 sass:
   style: compressed
-  sass_dir: _sass
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - .jekyll-cache/
-  - .jekyll-metadata
-  - README.md
+plugins:
+  - jekyll-seo-tag
