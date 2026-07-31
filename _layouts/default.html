@@ -14,7 +14,7 @@
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:image" content="{{ '/thumbnail.jpg' | relative_url }}">
 
-  <!-- Jekyll Cayman Theme CSS (or site default stylesheet) -->
+  <!-- Jekyll Cayman Theme CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 <body>
@@ -30,5 +30,77 @@
       <span class="site-footer-owner">{{ site.title }} is maintained by the community.</span>
     </footer>
   </section>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const form = document.getElementById("workshopForm");
+      if (!form) return;
+
+      const commentInput = document.getElementById("commentInput");
+      const statusMessage = document.getElementById("statusMessage");
+      const submitBtn = document.getElementById("submitBtn");
+
+      // Replace these three string values with your actual Airtable details
+      const AIRTABLE_PAT = "YOUR_AIRTABLE_PERSONAL_ACCESS_TOKEN";
+      const BASE_ID = "YOUR_BASE_ID";
+      const TABLE_NAME = "Submissions";
+      const ENDPOINT_URL = `https://api.airtable.com/v0/${BASE_ID}/${encodeURIComponent(TABLE_NAME)}`;
+
+      form.addEventListener("submit", function(event) {
+        event.preventDefault();
+
+        const commentText = commentInput.value.trim();
+        if (!commentText) return;
+
+        const rawPayload = {
+          records: [
+            {
+              fields: {
+                "Section": document.getElementById("sectionSelect").value,
+                "Insight": commentText
+              }
+            }
+          ]
+        };
+
+        submitBtn.disabled = true;
+        statusMessage.textContent = "Sending...";
+        statusMessage.className = "status-indicator pending";
+
+        fetch(ENDPOINT_URL, {
+          method: "POST",
+          headers: {
+            "Authorization": `Bearer ${AIRTABLE_PAT}`,
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(rawPayload),
+          credentials: "omit"
+        })
+        .then(response => {
+          if (response.ok) {
+            statusMessage.textContent = "Saved.";
+            statusMessage.className = "status-indicator success";
+            commentInput.value = "";
+
+            // Soft UI Focus-Lock: Keep mobile keyboard active
+            setTimeout(() => {
+              commentInput.focus();
+              statusMessage.textContent = "";
+              statusMessage.className = "status-indicator";
+            }, 1000);
+          } else {
+            throw new Error("Airtable submission error");
+          }
+        })
+        .catch(error => {
+          statusMessage.textContent = "Error saving. Retry.";
+          statusMessage.className = "status-indicator error";
+        })
+        .finally(() => {
+          submitBtn.disabled = false;
+        });
+      });
+    });
+  </script>
 </body>
 </html>
