@@ -1,67 +1,151 @@
 ---
-layout: default
-title: Live Feedback Terminal | 2026 NASW Iowa Symposium
+# Front matter blocks are required to trigger Jekyll processing
 ---
 
-<div class="form-card">
-  <h2>Live Feedback Terminal</h2>
-  <p>Select a discussion section and type your entry below. Submitting saves your input anonymously and keeps your keyboard active for rapid entries.</p>
+@import "{{ site.theme }}";
 
-  <form id="workshopForm">
-    <label for="sectionSelect"><strong>Discussion Section:</strong></label>
-    <select id="sectionSelect" name="section" required>
-      <option value="Breakout 1: Critical Pedagogy & Banking Models">Breakout 1: Critical Pedagogy & Banking Models</option>
-      <option value="Breakout 2: Systems Theory & Institutional Barriers">Breakout 2: Systems Theory & Institutional Barriers</option>
-      <option value="Breakout 3: Strengths-Based Mentorship Actions">Breakout 3: Strengths-Based Mentorship Actions</option>
-    </select>
+/* Container Padding for Mobile Screens */
+.main-content {
+  padding: 1rem;
+  max-width: 100%;
+}
 
-    <label for="commentInput"><strong>Your Insight or Note:</strong></label>
-    <textarea id="commentInput" name="comment" rows="3" placeholder="Type a bullet point or brief comment..." required></textarea>
+/* High-contrast Form Input Terminal */
+.form-card {
+  background-color: #ffffff;
+  border: 2px solid #159957;
+  border-radius: 6px;
+  padding: 1.2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 
-    <button type="submit" id="submitBtn">Submit Note</button>
-    <span id="statusMessage" class="status-indicator"></span>
-  </form>
-</div>
+  h2 {
+    margin-top: 0;
+    color: #155724;
+  }
 
----
+  label {
+    display: block;
+    margin-top: 0.8rem;
+    margin-bottom: 0.3rem;
+    color: #222222;
+  }
 
-## Active Breakout Prompts
 
-<div class="breakout-card">
-  <h3>Breakout 1: Critical Pedagogy</h3>
-  <p>How can field instructors replace "banking model" instruction with dialogue-based problem posing during supervision?</p>
-</div>
+  input, select, textarea {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    font-size: 16px !important; /* Prevents auto-zoom on mobile Safari */
+    line-height: 1.4;
+    box-sizing: border-box;
 
-<div class="breakout-card">
-  <h3>Breakout 2: Systems Theory</h3>
-  <p>What macro institutional barriers currently prevent non-traditional MSW students from accessing proactive mentorship?</p>
-</div>
+    &:focus {
+      outline: none;
+      border-color: #159957;
+      box-shadow: 0 0 5px rgba(21, 153, 87, 0.5);
+    }
+  }
 
-<div class="breakout-card">
-  <h3>Breakout 3: Strengths-Based Action</h3>
-  <p>What existing resilient strategies and student-led networks can we formalize into faculty advising frameworks?</p>
-</div>
+  button {
+    margin-top: 0.8rem;
+    min-height: 48px; /* High-accessibility touch target */
+    padding: 0.75rem 1.5rem;
+    background-color: #159957;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
 
----
+    &:focus, &:hover {
+      background-color: #10693c;
+      outline: 3px solid #ffbf47; /* Visible focus ring */
+    }
 
-## Learning Objectives
+    &:disabled {
+      background-color: #888888;
+    }
+  }
+}
 
-{% for obj in site.data.objectives %}
-* **{{ obj.title }}** (CSWE EPAS {{ obj.epas }}): {{ obj.description }}
-{% endfor %}
+.status-indicator {
+  margin-left: 0.8rem;
+  font-weight: bold;
+  font-size: 0.95rem;
 
----
+  &.pending { color: #0056b3; }
+  &.success { color: #28a745; }
+  &.error { color: #dc3545; }
+}
 
-## Workshop Agenda (90 Minutes)
+/* High-contrast Visual Container Cards for Breakout Prompts */
+.breakout-card {
+  border-left: 5px solid #159957;
+  padding: 1rem;
+  background-color: #f1f8f3;
+  margin-bottom: 1rem;
+  border-radius: 4px;
 
-| Time Window | Duration | Module Title | Format |
-| :--- | :--- | :--- | :--- |
-{% for item in site.data.agenda -%}
-| {{ item.time }} | {{ item.duration }} | {{ item.title }} | {{ item.format }} |
-{% endfor %}
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+    color: #155724;
+  }
 
----
+  p {
+    margin: 0;
+    color: #333333;
+  }
+}
 
-## Academic Documentation & Research Core
+/* Responsive Google Form Frame / iFrame Backup */
+.form-container {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-bottom: 20px;
+}
 
-For full theoretical frameworks, CSWE/NASW standards mappings, and empirical research, consult the official [Research Repository](https://mmonfils.github.io/msw-mentorship-support-systems-research/).
+.responsive-form {
+  width: 100%;
+  min-height: 500px;
+  border: 0;
+}
+
+/* Custom Mobile Overrides for Jekyll Cayman (Table Stacking) */
+@media screen and (max-width: 480px) {
+  /* Force tables to stack vertically to prevent horizontal scrolling */
+  table, thead, tbody, th, td, tr {
+    display: block;
+    width: 100% !important;
+  }
+  
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  
+  tr {
+    border: 1px solid #e9ebec;
+    margin-bottom: 10px;
+    background: #ffffff;
+    padding: 8px;
+  }
+  
+  td {
+    border: none;
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+  }
+  
+  /* Bulleted formatting inside stacked cells */
+  td ul {
+    margin-left: 15px;
+    padding-left: 0;
+  }
+}

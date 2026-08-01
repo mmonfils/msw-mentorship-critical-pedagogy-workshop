@@ -40,7 +40,7 @@
       const statusMessage = document.getElementById("statusMessage");
       const submitBtn = document.getElementById("submitBtn");
 
-      // Replace these three string values with your actual Airtable details
+      // Replace these placeholders with actual values in a secure environment
       const AIRTABLE_PAT = "YOUR_AIRTABLE_PERSONAL_ACCESS_TOKEN";
       const BASE_ID = "YOUR_BASE_ID";
       const TABLE_NAME = "Submissions";
@@ -63,6 +63,7 @@
           ]
         };
 
+        // UI Feedback: Set Pending State
         submitBtn.disabled = true;
         statusMessage.textContent = "Sending...";
         statusMessage.className = "status-indicator pending";
@@ -74,25 +75,28 @@
             "Content-Type": "application/json"
           },
           body: JSON.stringify(rawPayload),
-          credentials: "omit"
+          credentials: "omit" // Ensures no cookies/auth are sent per Technical Standards
         })
         .then(response => {
           if (response.ok) {
+            // UI Feedback: Set Success State
             statusMessage.textContent = "Saved.";
             statusMessage.className = "status-indicator success";
             commentInput.value = "";
 
-            // Soft UI Focus-Lock: Keep mobile keyboard active
+            // Soft UI Focus-Lock: Restore focus to input for rapid mobile entry
             setTimeout(() => {
               commentInput.focus();
               statusMessage.textContent = "";
               statusMessage.className = "status-indicator";
-            }, 1000);
+            }, 1500);
           } else {
             throw new Error("Airtable submission error");
           }
         })
         .catch(error => {
+          // UI Feedback: Set Error State
+          console.error("Submission failed:", error);
           statusMessage.textContent = "Error saving. Retry.";
           statusMessage.className = "status-indicator error";
         })
